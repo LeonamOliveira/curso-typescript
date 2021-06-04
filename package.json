@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/LeonamOliveira/curso-typescript#readme",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "@types/node": "^15.6.1",
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.5"
   }
 }
